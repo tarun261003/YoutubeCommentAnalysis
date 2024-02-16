@@ -1,4 +1,4 @@
-YouTube Comment Analysis
+YouTube Comment Analysis:
 This project consists of an IPython Notebook file that enables the analysis of comments from YouTube videos. To utilize this project effectively, users need to obtain a YouTube API key.
 
 Features
