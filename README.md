@@ -31,6 +31,11 @@ Run the notebook to generate the analysis dashboard.
 
 Sample Video
 Here is a sample video for testing purposes:
+
+
+![image](https://github.com/tarun261003/YoutubeCommentAnalysis/assets/122869742/90c17e20-72af-479c-b351-3ff4501e0989)
+
+
 https://github.com/tarun261003/YoutubeCommentAnalysis/assets/122869742/c0c6328c-5c64-4eb1-a3f1-2dae96e08287
 
 
